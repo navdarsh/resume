@@ -60,7 +60,8 @@ class Contact extends Component {
                   </div>
 
                   <div>
-                     <button className="submit">Submit</button>
+                     {/* <button className="submit">Submit</button> */}
+                     <span>Feature to Submit Enquiry Comming Soon.....</span>
                      <span id="image-loader">
                         <img alt="" src="images/loader.gif" />
                      </span>
