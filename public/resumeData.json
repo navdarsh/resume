@@ -1,11 +1,11 @@
 {
   "main": {
-    "name": "Naveen",
-    "occupation": "Angular/React Developer",
-    "description": "having 1.9 years of experience in IT",
+    "name": "Naveen Gupta",
+    "occupation": "Full Stack Software Engineer",
+    "description": "Cureently employed by Axestrack soft. where i work as angular developer,Having 2 years of experience in IT",
     "image": "naveen.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Feel free to write me here.",
+    "bio": "Hi i am Naveen Gupta, a software developer. apart from being developer I'm Enthusiastic person who loves to participate in activities.",
+    "contactmessage": "Do you have any project for me? Do you think i'm best suitable for your team? please Feel free to write me here.",
     "email": "naveen010gupta@gmail.com",
     "phone": "9672010223",
     "address": {
@@ -45,7 +45,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "I'm having good knowledge of Angular, React, MongoDb, NodeJs, JavaScript, Html, CSS",
     "education": [
       {
         "school": "JECRC University",
@@ -107,20 +107,16 @@
       {
         "title": "Resume Website",
         "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
+        "image": "myresume.png",
+        "url": "naveengupta.herokuapp.com"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "I have had the opportunity to work with Naveen on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Naveen excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
+        "user": "TRX"
       }
     ]
   }

@@ -33,6 +33,13 @@ class Contact extends Component {
 
          </div>
 
+         <div className="row"> 
+
+               <p className="alert-contact">*Currently contact form not configured, please contact me through email.</p>
+
+         </div>
+
+
          <div className="row">
             <div className="eight columns">
 
@@ -56,12 +63,12 @@ class Contact extends Component {
 
                   <div>
                      <label htmlFor="contactMessage">Message <span className="required">*</span></label>
-                     <textarea cols="50" rows="15" id="contactMessage" name="contactMessage"></textarea>
+                     <textarea cols="50" rows="15" id="contactMessage" name="contactMessage" ></textarea>
                   </div>
 
                   <div>
                      {/* <button className="submit">Submit</button> */}
-                     <span>Feature to Submit Enquiry Comming Soon.....</span>
+                     <span className="alert-contact">Feature to Submit Enquiry Comming Soon.....</span>
                      <span id="image-loader">
                         <img alt="" src="images/loader.gif" />
                      </span>
